@@ -1,4 +1,4 @@
-## General 
+## General Code Review Guideline
 
 1. Code Style and Formatting
 
@@ -82,5 +82,7 @@ is crucial for writing robust and secure code.
 ## Reference
 
 https://www.incredibuild.com/blog/the-ultimate-guide-to-cpp-code-review-part-1
+
 https://www.incredibuild.com/blog/the-ultimate-guide-to-cpp-code-review-part-2
+
 https://learn.microsoft.com/en-us/cpp/code-quality/using-the-cpp-core-guidelines-checkers?view=msvc-170
